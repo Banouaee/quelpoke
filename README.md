@@ -1,6 +1,6 @@
 # Lancer le programme
-cd C:\Users\"NomUser"\Emplacementquelpoke\quelpoke
-go run main.go
+<cd C:\Users\"NomUser"\Emplacementquelpoke\quelpoke>
+<go run main.go>
 
 # Utiliser le programme
 Ouvrir un navigateur Web
