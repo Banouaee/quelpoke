@@ -1,4 +1,11 @@
+# Prérequis
+Installer le dossier quelpoke
+
+Le placer où vous voulez sur votre machine
+
 # Lancer le programme
+Ouvrir une invite de commande (cmd)
+
 cd C:\Users\"NomUser"\Emplacementquelpoke\quelpoke
 
 go run main.go
